@@ -1,2 +1,2 @@
-# smea-data-analysis.github.io
+# jpsmea.github.io
 データ分析基盤（Tableau）のWebデータコネクタ用
